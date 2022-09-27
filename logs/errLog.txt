@@ -1,0 +1,17 @@
+20220926	13:41:10	53cbf2cc-ece9-4fff-89ad-fb0012c07982	Error: Not allowed by CORS
+20220926	13:41:28	03be8b57-b6fb-4fed-911b-a4dd4a101f96	Error: Not allowed by CORS
+20220926	13:41:30	4fdea055-e2b8-4a76-a6bd-2563cacd665e	Error: Not allowed by CORS
+20220926	21:49:38	99048508-fdc6-4684-b383-64a98741d5a3	TypeError: Cannot read properties of undefined (reading 'id')
+20220926	21:51:38	25e58247-f3b9-45b0-9390-1e0aea97f47f	TypeError: Cannot read properties of undefined (reading 'id')
+20220927	08:51:43	369f7799-a2d6-4f66-acd4-c1fedeb42a24	TypeError: Cannot read properties of undefined (reading 'id')
+20220927	08:51:59	14c97da7-2927-4da6-a4dd-db91979175c5	TypeError: Cannot read properties of undefined (reading 'id')
+20220927	08:53:06	b51a8a95-6e85-4d62-91e1-0b0df8b3bc24	TypeError: Cannot read properties of undefined (reading 'id')
+20220927	10:14:25	17c60c06-7949-4e74-8891-3527eaa03374	TypeError: Cannot read properties of undefined (reading 'id')
+20220927	10:19:41	a167478c-42bf-4236-b27a-494d619f7555	TypeError: data.setEmployees is not a function
+20220927	10:20:07	f6f25026-ee51-40b8-928a-5666629976b1	TypeError: data.setEmployees is not a function
+20220927	10:40:25	7c1d66df-eb89-4238-8bf8-7c785d955d49	TypeError: data.setEmployees is not a function
+20220927	10:43:38	0323c446-2c79-499c-851d-221ca11ab6f8	SyntaxError: Unexpected token { in JSON at position 41
+20220927	10:48:20	aaa8a5e0-4614-495f-b939-b110c34152d3	TypeError: data.setEmployees is not a function
+20220927	10:48:33	ae46ce8d-54d4-411d-8ea1-7eccb495b398	TypeError: data.setEmployees is not a function
+20220927	10:48:38	0471fcc1-4f68-45e7-a29f-408e1de8a123	TypeError: data.setEmployees is not a function
+20220927	10:51:34	270eee2a-7308-4e35-bc8f-06bea5402ed6	TypeError: data.setEmployees is not a function
